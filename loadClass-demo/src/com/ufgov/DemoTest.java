@@ -6,7 +6,6 @@ public class DemoTest {
 		
 		System.out.println("AAAAAAAAAAAAAAAAA");
 		
-		System.out.println("masterÐÞ¸ÄÀ²");
 		
 	}
 
