@@ -4,9 +4,10 @@ public class DemoTest {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("AAAAAAAAAAAAAAAAA");
-		
-		System.out.println("masterÐÞ¸ÄÀ²");
+		System.out.println("666666666666666666");
+
+
+		System.out.println("æµ‹è¯•åˆ†æ”¯");
 		
 	}
 
